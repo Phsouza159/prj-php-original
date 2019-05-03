@@ -1,0 +1,6 @@
+[20-Feb-2019 01:30:45 Europe/Paris] PHP Warning:  mysqli_connect(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in E:\EasyPHP-Devserver-17\eds-www\PROJETO_FINAL\conexao.php on line 10
+[20-Feb-2019 01:30:45 Europe/Paris] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in E:\EasyPHP-Devserver-17\eds-www\PROJETO_FINAL\conexao.php on line 12
+[20-Feb-2019 04:09:21 Europe/Paris] PHP Notice:  Undefined variable: sql in J:\EasyPHP-Devserver-17\eds-www\PROJETO_FINAL\operacoes.php on line 81
+[01-May-2019 19:44:42 Europe/Paris] PHP Notice:  Undefined variable: sql in J:\EasyPHP-Devserver-17\eds-www\PROJETO_FINAL\operacoes.php on line 81
+[02-May-2019 01:42:05 Europe/Paris] PHP Notice:  Undefined variable: sql in J:\EasyPHP-Devserver-17\eds-www\PROJETO_FINAL\operacoes.php on line 81
